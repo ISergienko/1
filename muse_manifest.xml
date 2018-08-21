@@ -1,0 +1,147 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="poznyakov.in/kopilko" resolutions="1x" timestamp="1532412797385">
+  <folder name="css">
+    <file name="site_global.css" crc="4129276899"/>
+    <file name="index.css" crc="109199916" ref="index"/>
+    <file name="congratulations.css" crc="159239233" ref="congratulations"/>
+  </folder>
+  <folder name="fonts">
+    <file name="centurygothic.woff" crc="4115945434"/>
+    <file name="centurygothic.eot" crc="3768512694"/>
+    <file name="centurygothic-bold.woff" crc="438359697"/>
+    <file name="centurygothic-bold.eot" crc="183273610"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:congratulations"/>
+    <file name="museutils.js" crc="340535759" ref="index:congratulations"/>
+    <file name="whatinput.js" crc="86476730" ref="index:congratulations"/>
+    <file name="museconfig.js" crc="310584261" ref="index:congratulations"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:congratulations"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:congratulations"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u911.php" crc="4198306873" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:congratulations"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="490583485" ref="index"/>
+    <file name="plane-bg.png" crc="4050602734" ref="index:congratulations">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4230959454" seo="true" ref="index:congratulations">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="congratulations" alt=""/>
+    </file>
+    <file name="button-first-norm.png" crc="286103969" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-first-hover.png" crc="223445142" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-first-press.png" crc="221093758" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how-bg.png" crc="455463746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infographics.png" crc="197874261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chel.png" crc="4088552813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow.png" crc="469760795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green_icon.png" crc="3882501263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="biruza-icon.png" crc="26327423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue-icon.png" crc="143426139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="violet-icon.png" crc="319300168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="city-bg.png" crc="3795228874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hands-icon.png" crc="4049310771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-icon.png" crc="3763718441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hands2-icon.png" crc="57249092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-icon.png" crc="4233531047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="operator-icon.png" crc="74747634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-icon.png" crc="4294620322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beach-bg.jpg" crc="4010475780" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chemodan.png" crc="4233389356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="money.png" crc="523896590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-second-norm.png" crc="519181697" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-second-hover.png" crc="296473176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-second-press.png" crc="250818981" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close02-icon.png" crc="235342562" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-icon.png" crc="405837089" ref="congratulations">
+      <caption webpage="congratulations" alt=""/>
+    </file>
+    <file name="icon-popup.png" crc="3906723294" seo="true" ref="congratulations">
+      <caption webpage="congratulations" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="46545599" seo="true" mt="1532412722491" redirect="true"/>
+  <file name="congratulations.html" crc="3956988081" mt="1532264186360" redirect="true"/>
+</manifest>
